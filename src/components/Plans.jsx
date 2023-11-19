@@ -24,7 +24,7 @@ const Plans = () => {
             <h3 className="text-4xl font-bold text-primary">Yearly</h3>
           </div>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 mt-14">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 md:gap-10 mt-14">
 
             <div className="px-4 py-6 rounded-2xl shadow-3xl">
                 <div>
@@ -71,7 +71,7 @@ const Plans = () => {
                     </div>
                     <h5 className="text-base text-primary font-[500]">Video Lessons</h5>
                     </div>
-                    <button className="text-secondary border border-solid border-[#9A7AF1] px-10 py-3 text-base font-bold rounded-2xl mt-6 ml-[25%] hover:bg-primary hover:text-white transition-all duration-300">Get Started</button>
+                    <button className="text-secondary border border-solid border-[#9A7AF1] px-10 py-3 text-base font-bold rounded-2xl mt-6 ml-[25%] hover:bg-secondary hover:text-white transition-all duration-300">Get Started</button>
                 </div>
             </div>
 
